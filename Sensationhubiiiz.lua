@@ -646,4 +646,4 @@ do
 	end)
 end
 
-notify("Sensation UI carregada (somente interface)")
+notify("Converted by yoolz;))))")
